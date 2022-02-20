@@ -32,5 +32,6 @@ Hi, I am Madany Diallo. I was born in Africa, in Conkary, Guinea. I moved to the
 </a>
 
 ## Feel free to learn more about me:
+- https://madany-diallo.netlify.app/
 - https://mdial009.github.io/
 - https://www.linkedin.com/in/madany-diallo-7453b6142/
