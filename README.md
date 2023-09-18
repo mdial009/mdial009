@@ -23,6 +23,35 @@ Here are some ideas to get you started:
 
 Hi, I am Madany Diallo. I was born in Africa, in Conkary, Guinea. I moved to the Bronx in New York City when I was seven years old and have since lived in the Bronx. As a young teen, playing video games was always my favorite pastime. Overwatch and Warframe are two of my favorite video games, but I love a good, story-heavy game like The Witch 3: Wild Hunt, Horizon Zero Dawn, Detroit: Become Human, and the Kingdom Hearts Saga. This passion for video games is what sparked my love and passion for the tech industry and programming in general. With this, I decided to go to SUNY Plattsburgh and major in Computer Science with Math and Business as my minors. Four years later after all the long classwork and hard work, I graduated with a 3.3 GPA and my degree in Computer Science. Graduating from college was a milestone for me and my family is the first person to graduate college in my family. I am currently aspiring to be a Mobile/Web Developer. I use most of my free time to go on YouTube and learn new things in mobile or web development. My dream is to be able to develop something or anything to eventually help my community or the world be a better place, whether that be solo or as a team.
 
+## 🛠 Languages and Tools
+📖 I have been learning and exploring these following tools and languages
+
+<div align="center"> 
+    <code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
+    <code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
+    <code><a href="https://www.java.com" title="Java" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></code>
+    <code><a href="https://www.jenkins.io" title="Jenkins" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a></code>
+    <code><a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></code>
+    <code><a href="https://www.python.org" title="Python" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
+    <code><a href="https://developer.apple.com/swift/" title="Swift" target="_blank"><img src="https://developer.apple.com/swift/images/swift-og.png" alt="swift" width="40" height="40"/></a></code>
+    <code><a href="https://flutter.dev/" title="Flutter" target="_blank"><img src="https://pbs.twimg.com/profile_images/1187814172307800064/MhnwJbxw_400x400.jpg" alt="flutter" width="40" height="40"/></a></code>
+    <code><a href="https://dart.dev/" title="Dart" target="_blank"><img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="dart" width="40" height="40"/></a></code>
+    <code><a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/></a></code>
+    <code><a href="https://reactjs.org/" title="React" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/></a></code>
+    <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/></a></code>
+    <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/></a></code>
+    <code><a href="https://getbootstrap.com/" title="Bootstrap" target="_blank"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/></a></code>
+    <code><a href="https://jupyter-notebook.readthedocs.io/en/stable/" title="Jupyter Notebook" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter" width="40" height="40"/></a></code>
+    <code><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/></a></code>
+    <code><a href="https://spring.io/" title="Spring" target="_blank"><img src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" alt="spring" width="40" height="40"/></a></code>
+    <code><a href="https://spring.io/projects/spring-boot" title="Spring Boot" target="_blank"><img src="https://www.adroitlogic.com/static/assets/images/icons/spring-boot.svg" alt="springboot" width="40" height="40"/></a></code>
+    <code><a href="https://kubernetes.io/" title="Kubernetes" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" alt="kubernetes" width="40" height="40"/></a></code>
+    <code><a href="https://www.scala-lang.org/" title="Scala" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" alt="scala" width="40" height="40"/></a></code>
+    <code><a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a></code>
+    <code><a href="https://go.dev/" title="Go" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png?size=48" alt="go" width="40" height="40"/></a></code>
+    <code><a href="https://www.docker.com//" title="Docker" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png?size=48" alt="docker" width="40" height="40"/></a></code>
+</div>
+
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/mdial009">
