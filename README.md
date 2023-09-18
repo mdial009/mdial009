@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img src="./assets/Zen_Quote.jpg" width="500">
+<img src="./assets/Zen_Quote.jpg" width="900">
 </p>
 
 I am a junior software engineer passionate about developing innovative software solutions. I have experience working with Javascript, Python, and SQL programming languages. I am proficient in data structures, algorithms, and object-oriented programming. I have worked on several projects during my academic career, including developing a web application using React, and Python. As an immigrant, I bring a unique perspective to the table and am excited to work with people from diverse backgrounds. I am seeking a software engineering position where I can apply my skills and knowledge to real-world problems. I am a quick learner and enjoy working in a team environment. If you want to talk about software development, coding, or anything else, please do not hesitate to connect with <a href="https://www.linkedin.com/in/madany-diallo/"/>me</a>.
