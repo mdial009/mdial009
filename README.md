@@ -1,6 +1,6 @@
 ### Hi there 👋
 # Hi there! Welcome to my GitHub Profile! ✨
-## <img src="./assets/waving-hand.webp" width="4%"> My name is Ginny, an aspiring technophile. <img src="./assets/waving-hand.webp" width="4%">
+## <img src="./assets/waving-hand.webp" width="4%"> My name is Madany, an aspiring technophile. <img src="./assets/waving-hand.webp" width="4%">
 
 <!--
 **mdial009/mdial009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
